@@ -1,4 +1,4 @@
-const GOOGLE_API = Put your google api here;
+const GOOGLE_API = place your google api here;
 
 export const LIVE_CHAT_COUNT =25
 
